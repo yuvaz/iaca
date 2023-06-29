@@ -1,38 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background: linear-gradient(45deg, rgb(19, 73, 95), rgb(118, 75, 226), rgb(131, 115, 198), rgb(119, 211, 185));
+  background-attachment: fixed;
+  height:100vh;
+  padding: 0;
+  margin: 0;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  size: 14px;
+}
+.headeWrapper {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background: #fff;
+  /* border-bottom: 1px solid #ccc; */
+  margin: 0;
+  top: 0;
+  padding-bottom: 10px;
+  /* background: linear-gradient(to left, #485fed, rgba(255, 44, 118, 0.25)), #485fed; */
+  /* color: #fff; */
+  box-shadow: 0px 0px 15px -2px #485fed;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  margin: 11px 0px 10px;
+  font-size: 23px;
+  letter-spacing: 3px;
+}
+.selectDate{
+  display: inline-block;
+  margin: 0;
+  padding-right: 10px;
+}
+.headeWrapper .react-datepicker-wrapper{
+  width: auto;
+}
+.calender{
+  /* background: #fff; */
+  position: relative;
+  width: 95%;
+  margin: 75px auto 20px;
+  padding: 0px 0 20px;
+  border-radius: 10px;
+  /* box-shadow: 0px 10px 30px -10px #000; */
+  /* overflow: hidden; */
+}
+button.example-custom-input {
+  font-size: 16px;
+  border: 1px solid #485fed;
+  border-radius: 3px;
+  padding: 5px 14px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.dateBlock{
+  scroll-margin-top: 75px;
+}
+.today h3:before {
+  content: "today";
+  position: absolute;
+  background: #fff;
+  color: #000;
+  font-size: 10px;
+  line-height: 34px;
+  padding: 5px;
+  border-radius: 33px;
+  text-transform: uppercase;
+  left: -8px;
+  margin: -31px 0 0 0;
+  transform: rotate(-30deg);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/*footer*/
+.footer {
+  margin-top: 25px;
+  padding: 3px 3px 5px;
+  background: rgba(256,256,256,0.2);
+  
 }
-
-.App-link {
-  color: #61dafb;
+.footer > span {
+  font-family: 'Dancing Script', cursive;
+  color: #e8e8e8;
+  letter-spacing: 5px;
+  font-size: 18px;
+  display: block;
+  margin-bottom: 100px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer div {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  background: #fff;
+  color: #333;
+  padding: 7px 0;
+  border-top: 8px solid #7450d1;
+  box-shadow: 0 0 9px #7450d1;
+}
+.footer div p{
+  padding: 0 5px 5px;
+  margin: 0;
+  text-align: left;
+  font-size: 14px;
+}
+.bold{
+  font-weight: bold;
 }

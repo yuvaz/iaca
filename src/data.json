@@ -1,0 +1,631 @@
+
+   [
+   {
+      "date": "06/19/2023",
+      "day": "Monday",
+      "slots": [
+         {
+            "time": "10 AM - 11 AM",
+            "details": "YOGA",
+            "by": "By Sadguru's Students"
+         },
+         {
+            "time": "11 AM - 12 PM",
+            "details": "Design Thinking and College Essay.",
+            "by": "By Synthia"
+         },
+         {
+            "time": "12 PM - 1 PM",
+            "details": "The Sacred Thread. For parents",
+            "by": "By Ravi "
+         },
+         {
+            "time": "1 PM - 2 PM",
+            "details": "Cultural Pathfinders.",
+            "by": "By Ravi Ji"
+         },
+         {
+            "time": "2 PM - 2.30 PM",
+            "details": "Finance Advice",
+            "by": "By Shikha"
+         },
+         {
+            "time": "2.30 PM - 3 PM",
+            "details": "Hindi class.",
+            "by": "By Seema"
+         }
+      ]
+  },
+  {
+   "date": "06/20/2023",
+   "day": "Tuesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "Math class",
+         "by": "By Kay"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Design Thinking and College Essay.",
+         "by": "By Synthia"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "1:30 PM - 2 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      }
+   ]
+  },
+  {
+   "date": "06/21/2023",
+   "day": "Wednesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT class",
+         "by": "By Kay"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Design Thinking and College Essay.",
+         "by": "By Synthia"
+      },
+      {
+         "time": "12 PM - 12:30 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Communication managment",
+         "by": "By Arjho"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "06/22/2023",
+   "day": "Thursday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "SAT Class",
+         "by": "By Kay"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Design Thinking and College Essay.",
+         "by": "By Synthia"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi class",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "06/23/2023",
+   "day": "Friday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "Artificial Intelligence ",
+         "by": "By Kay"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Design Thinking and College Essay.",
+         "by": "By Synthia"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Financial Introduction ",
+         "by": "By Shikha"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders ",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music class",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "06/24/2023",
+   "day": "Saturday"
+  },
+  {
+   "date": "06/25/2023",
+   "day": "Sunday"
+  },
+  {
+   "date": "06/26/2023",
+   "day": "Monday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "Yoga ",
+         "by": ""
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Personal Finance.",
+         "by": "By Pathik"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders ",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi class.",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "06/27/2023",
+   "day": "Tuesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Public Speaking.",
+         "by": "By Zelle"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1.30 PM - 2 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "06/28/2023",
+   "day": "Wednesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "Introduction - Early steps of academy",
+         "by": "By Gayatri"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Public Speaking.",
+         "by": "By Zelle"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Bollywood Class",
+         "by": "By Karishma"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "06/29/2023",
+   "day": "Thursday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Public Speaking.",
+         "by": "By Zelle"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": " ",
+         "by": " "
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi class.",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "06/30/2023",
+   "day": "Friday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": " ",
+         "by": " "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Public Speaking.",
+         "by": "By Zelle"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders.",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Real Estate.",
+         "by": "By Jyoti"
+      }
+   ]
+  },
+  {
+   "date": "07/01/2023",
+   "day": "Saturday"
+  },
+  {
+   "date": "07/02/2023",
+   "day": "Sunday"
+  },
+  {
+   "date": "07/03/2023",
+   "day": "Monday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "Yoga",
+         "by": "- "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi Class",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "07/04/2023",
+   "day": "Tuesday"
+  },
+  {
+   "date": "07/05/2023",
+   "day": "Wednesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "12 PM - 12:30 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "12:30 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "07/06/2023",
+   "day": "Thursday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "-",
+         "by": "-"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi Class",
+         "by": "-"
+      }
+   ]
+  },
+  {
+   "date": "07/07/2023",
+   "day": "Friday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": " -",
+         "by": "- "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Online Safety",
+         "by": "By Ajit"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders.",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Recycling Class",
+         "by": "By Shivangi M"
+      }
+   ]
+  },
+  {
+   "date": "07/08/2023",
+   "day": "Saturday"
+  },
+  {
+   "date": "07/09/2023",
+   "day": "Sunday"
+  },
+  {
+   "date": "07/10/2023",
+   "day": "Monday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": " Yoga",
+         "by": "- "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Crochet ",
+         "by": "By Tanvi"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Bhagavad Gita Class",
+         "by": "By Siva Priya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders.",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi Class",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "07/11/2023",
+   "day": "Tuesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Crochet ",
+         "by": "By Tanvi"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Mental Chess ",
+         "by": "By Joe"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Food4Lives",
+         "by": "By Tanmaya"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "07/12/2023",
+   "day": "Wednesday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": " -",
+         "by": "- "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "- ",
+         "by": "-"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Shashikala Foundation: Patterns and Borders",
+         "by": "By Pramod"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Climate Change Class",
+         "by": "By Dhruv A and Shrikrish"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Music Class ",
+         "by": "By Geetanjali Ji"
+      }
+   ]
+  },
+  {
+   "date": "07/13/2023",
+   "day": "Thursday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": "PSAT Class ",
+         "by": "By Mirunalinii"
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "Crochet ",
+         "by": "By Tanvi"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Shashikala Foundation: Canva and Overview",
+         "by": "By Riya"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "ECOTIVITY: Hands Oo Activity On Seed Paper Making ",
+         "by": "By Dhrutla"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "Hindi Class",
+         "by": "By Seema"
+      }
+   ]
+  },
+  {
+   "date": "07/14/2023",
+   "day": "Friday",
+   "slots":[
+      {
+         "time": "10 AM - 11 AM",
+         "details": " -",
+         "by": "- "
+      },
+      {
+         "time": "11 AM - 12 PM",
+         "details": "- ",
+         "by": "-"
+      },
+      {
+         "time": "12 PM - 1 PM",
+         "details": "Shashikala Foundation: Mandala Art",
+         "by": "By Pooja"
+      },
+      {
+         "time": "1 PM - 2 PM",
+         "details": "Cultural Pathfinders.",
+         "by": "By Ravi Ji"
+      },
+      {
+         "time": "2 PM - 3 PM",
+         "details": "-",
+         "by": "-"
+      }
+   ]
+  }
+   
+   
+
+
+]
+
+
