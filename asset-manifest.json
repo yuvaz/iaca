@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iaca/static/css/main.819c3a08.css",
-    "main.js": "/iaca/static/js/main.f393060f.js",
+    "main.css": "/iaca/static/css/main.05f76164.css",
+    "main.js": "/iaca/static/js/main.a4252d87.js",
     "static/js/787.8821609e.chunk.js": "/iaca/static/js/787.8821609e.chunk.js",
     "index.html": "/iaca/index.html",
-    "main.819c3a08.css.map": "/iaca/static/css/main.819c3a08.css.map",
-    "main.f393060f.js.map": "/iaca/static/js/main.f393060f.js.map",
+    "main.05f76164.css.map": "/iaca/static/css/main.05f76164.css.map",
+    "main.a4252d87.js.map": "/iaca/static/js/main.a4252d87.js.map",
     "787.8821609e.chunk.js.map": "/iaca/static/js/787.8821609e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.819c3a08.css",
-    "static/js/main.f393060f.js"
+    "static/css/main.05f76164.css",
+    "static/js/main.a4252d87.js"
   ]
 }
