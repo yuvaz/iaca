@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/iaca/static/css/main.77323eaf.css",
-    "main.js": "/iaca/static/js/main.de75157d.js",
+    "main.js": "/iaca/static/js/main.15e17ebb.js",
     "index.html": "/iaca/index.html",
     "main.77323eaf.css.map": "/iaca/static/css/main.77323eaf.css.map",
-    "main.de75157d.js.map": "/iaca/static/js/main.de75157d.js.map"
+    "main.15e17ebb.js.map": "/iaca/static/js/main.15e17ebb.js.map"
   },
   "entrypoints": [
     "static/css/main.77323eaf.css",
-    "static/js/main.de75157d.js"
+    "static/js/main.15e17ebb.js"
   ]
 }
